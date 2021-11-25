@@ -1,9 +1,5 @@
 # computer18
 To create software....
-hgf
-fgfj'
-fg
-bgdr
 <html>
   <head></head>
   <title></title><br>
