@@ -6,8 +6,9 @@ fg
 bgdr
 <html>
   <head></head>
-  <title> this file to creat software file</title><br>
+  <title></title><br>
+  <h1>introduction to HTML</H1>
   <p1>this is html code...</p>
-  <h1>this code use to create website</h1>
-  <h1>html is a easy for learn</h1>
+  <h3>this code is use to create website</h3>
+  <h3>html is easy to learn</h3>
 </html>  
